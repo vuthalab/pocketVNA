@@ -13,6 +13,8 @@ To use the library, only a few steps are required:
 5. Plotting your frequencies
 6. Closing the VNA
 
+Here is an example:
+
 ``` python
 from VectorNetworkAnalyzer import *
 import numpy as np
